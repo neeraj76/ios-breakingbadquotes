@@ -11,6 +11,7 @@
 		0731180D29FFA5F00078FD1D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0731180C29FFA5F00078FD1D /* ContentView.swift */; };
 		0731180F29FFA5F10078FD1D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0731180E29FFA5F10078FD1D /* Assets.xcassets */; };
 		0731181229FFA5F10078FD1D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0731181129FFA5F10078FD1D /* Preview Assets.xcassets */; };
+		0731181929FFA7F60078FD1D /* samplecharacter.json in Resources */ = {isa = PBXBuildFile; fileRef = 0731181829FFA7F60078FD1D /* samplecharacter.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		0731180C29FFA5F00078FD1D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0731180E29FFA5F10078FD1D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0731181129FFA5F10078FD1D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0731181829FFA7F60078FD1D /* samplecharacter.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = samplecharacter.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				0731180A29FFA5F00078FD1D /* BreakingBadQuotesApp.swift */,
 				0731180C29FFA5F00078FD1D /* ContentView.swift */,
+				0731181829FFA7F60078FD1D /* samplecharacter.json */,
 				0731180E29FFA5F10078FD1D /* Assets.xcassets */,
 				0731181029FFA5F10078FD1D /* Preview Content */,
 			);
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0731181229FFA5F10078FD1D /* Preview Assets.xcassets in Resources */,
+				0731181929FFA7F60078FD1D /* samplecharacter.json in Resources */,
 				0731180F29FFA5F10078FD1D /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
